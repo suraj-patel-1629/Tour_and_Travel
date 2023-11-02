@@ -1,3 +1,3 @@
 # Tour_and_Travel
 
-HakerRank first project
+HakerRank tour and travel project
